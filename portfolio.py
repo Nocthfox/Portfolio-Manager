@@ -66,7 +66,7 @@ class Portfolio:
 # Example usage:
 portfolio = Portfolio()
 
-# Add holdings
+# Add holdings:
 portfolio.add_holding("BTC", 1.5, 35000)
 portfolio.add_holding("ETH", 5, 2000)
 
