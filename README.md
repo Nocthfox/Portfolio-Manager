@@ -1,5 +1,6 @@
 # Portfolio Manager
-This is a a tool to manage and track your cryptocurrency portfolio, including investments and profits/losses.
+
+This is a a tool to manage and track your cryptocurrency portfolio, including investments and profits or losses.
 
 In this code, we define a Portfolio class that represents a cryptocurrency portfolio. The class has the following methods:
 
