@@ -70,7 +70,7 @@ portfolio = Portfolio()
 portfolio.add_holding("BTC", 1.5, 35000)
 portfolio.add_holding("ETH", 5, 2000)
 
-# Update a holding
+# Update a holding:
 portfolio.update_holding("ETH", 7, 2200)
 
 # Remove a holding
