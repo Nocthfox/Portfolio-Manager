@@ -12,4 +12,4 @@ In this code, i defined a Portfolio class that represents a cryptocurrency portf
 -  ```generate_portfolio_report```: Generates a report of the portfolio holdings, current prices, and profit/loss.
 
   
-In the example usage, we create a Portfolio object and perform various operations on it. We add holdings for Bitcoin (BTC) and Ethereum (ETH), update the ETH holding, remove the BTC holding, calculate the profit/loss for the ETH holding, and generate a portfolio report.
+In the example usage, i create a Portfolio object and perform various operations on it. We add holdings for Bitcoin (BTC) and Ethereum (ETH), update the ETH holding, remove the BTC holding, calculate the profit/loss for the ETH holding, and generate a portfolio report.
