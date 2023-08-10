@@ -2,7 +2,7 @@
 
 This is a a tool to manage and track your cryptocurrency portfolio, including investments and profits or losses.
 
-In this code, i defined a Portfolio class that represents a cryptocurrency portfolio. The class has the following methods.
+In this code, i defined a Portfolio class that represents a cryptocurrency portfolio. The class has the following methods:
 
 -  ``` __init__ ```: Initializes the portfolio with an empty holdings dictionary.
 -  ```add_holding```: Adds a new holding to the portfolio with the symbol, quantity, and purchase price.
